@@ -1,4 +1,4 @@
-# 🧠 [Your Name] – Full‑Stack Engineer & AI‑Mobile Expert
+# 🧠 Kendra Burns – Full‑Stack Engineer & AI‑Mobile Expert
 
 [![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
@@ -63,9 +63,7 @@ End-to-end full-stack TypeScript project (Next.js, tRPC, Prisma) with AI-assiste
 
 ## ✉️ Let’s Connect
 
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)  
-- Email: your.email@domain.com  
+- Email: donpluilon@proton.me  
 
 Let’s collaborate on AI-powered mobile experiences, full-stack platforms, or innovative open-source tooling!
 
