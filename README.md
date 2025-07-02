@@ -55,12 +55,6 @@ End-to-end full-stack TypeScript project (Next.js, tRPC, Prisma) with AI-assiste
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
 ## ✉️ Let’s Connect
 
 - Email: donpluilon@proton.me  
