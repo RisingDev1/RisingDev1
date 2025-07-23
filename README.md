@@ -1,8 +1,7 @@
 # 🧠 Full‑Stack Engineer & AI‑Mobile Expert
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/kriston92)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sansyzbay-koishanov-194b98371/))
 
 ---
 
@@ -28,22 +27,7 @@ Currently leading development of on‑device AI solutions for image & video inte
 | **Backend**    | Node.js, Python, Golang |
 | **AI/ML**      | PyTorch, TensorFlow, Hugging Face, TFLite, Core ML |
 | **Mobile AI**  | MobileViT, MobileOne, ONNX Runtime |
-| **DevOps**     | Docker, Kubernetes, AWS, GitHub Actions |
-| **Blockchain** | Solidity, web3.js, Hardhat |
 | **Database**   | PostgreSQL, MongoDB, Redis |
-
----
-
-## 📚 Featured Open-Source Projects
-
-### 🔍 [MobileAI‑Vision](https://github.com/your-username/MobileAI-Vision)
-A React Native app using on-device Vision Transformers (MobileViT) for real-time object detection and classification.
-
-### 📱 [SmartAR‑Flutter](https://github.com/your-username/SmartAR-Flutter)
-Flutter AR app with AI-powered face filters and gesture recognition using TensorFlow Lite.
-
-### 🌐 [FullStack‑TS‑AI‑API](https://github.com/your-username/FullStack-TS-AI-API)
-End-to-end full-stack TypeScript project (Next.js, tRPC, Prisma) with AI-assisted code generation and serverless deployment.
 
 ---
 
