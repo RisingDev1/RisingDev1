@@ -1,7 +1,7 @@
 # 🧠 Full‑Stack Engineer & AI‑Mobile Expert
 
 [![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/kriston92)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sansyzbay-koishanov-194b98371/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sansyzbay-koishanov-194b98371/)
 
 ---
 
