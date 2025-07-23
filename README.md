@@ -55,10 +55,6 @@ End-to-end full-stack TypeScript project (Next.js, tRPC, Prisma) with AI-assiste
 
 ---
 
-## ✉️ Let’s Connect
-
-- Email: donpluilon@proton.me  
-
 Let’s collaborate on AI-powered mobile experiences, full-stack platforms, or innovative open-source tooling!
 
 ---
