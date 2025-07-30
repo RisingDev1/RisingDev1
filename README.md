@@ -10,7 +10,7 @@
 I build end-to-end software systems and mobile apps powered by AI. My expertise spans:
 
 - **Frontend**: React, React Native, Flutter  
-- **Backend**: Node.js (Express), Python (FastAPI), Golang  
+- **Backend**: Firebase, Supabase, Node.js (Express), Python (FastAPI), Golang  
 - **AI & Mobile Vision**: PyTorch, TensorFlow, mobile ViTs, ONNX, Core ML, TFLite  
 - **DevOps / Cloud**: Docker, Kubernetes, AWS, CI/CD  
 - **Bonus**: Web3, smart contracts, blockchain integrations  
@@ -24,7 +24,7 @@ Currently leading development of on‑device AI solutions for image & video inte
 | Layer           | Technologies |
 |----------------|--------------|
 | **Frontend**   | React, React Native, Flutter |
-| **Backend**    | Node.js, Python, Golang |
+| **Backend**    | Firebase, Supabase, Node.js, Python, Golang |
 | **AI/ML**      | PyTorch, TensorFlow, Hugging Face, TFLite, Core ML |
 | **Mobile AI**  | MobileViT, MobileOne, ONNX Runtime |
 | **Database**   | PostgreSQL, MongoDB, Redis |
